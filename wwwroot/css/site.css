@@ -20,7 +20,7 @@ a {
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1b6ec2;
+  background-color: #2f2f2f;
   border-color: #1861ac;
 }
 
@@ -59,8 +59,9 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-color: #2f2f2f;
 }
 .footer {
   position: absolute;
